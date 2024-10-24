@@ -1,0 +1,5 @@
+*venv
+*logs
+saveAll_to_mongo.py
+saveKeysum_embeddings.py
+store_embeddings.py
